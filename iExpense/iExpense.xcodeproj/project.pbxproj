@@ -11,6 +11,7 @@
 		959B2B732B12FA65002FA61D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B722B12FA65002FA61D /* ContentView.swift */; };
 		959B2B752B12FA68002FA61D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959B2B742B12FA68002FA61D /* Assets.xcassets */; };
 		959B2B782B12FA68002FA61D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 959B2B772B12FA68002FA61D /* Preview Assets.xcassets */; };
+		959B2B7F2B1301BD002FA61D /* ClassWithStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B7E2B1301BD002FA61D /* ClassWithStateView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		959B2B722B12FA65002FA61D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		959B2B742B12FA68002FA61D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		959B2B772B12FA68002FA61D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		959B2B7E2B1301BD002FA61D /* ClassWithStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassWithStateView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				959B2B702B12FA65002FA61D /* iExpenseApp.swift */,
 				959B2B722B12FA65002FA61D /* ContentView.swift */,
+				959B2B7E2B1301BD002FA61D /* ClassWithStateView.swift */,
 				959B2B742B12FA68002FA61D /* Assets.xcassets */,
 				959B2B762B12FA68002FA61D /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				959B2B732B12FA65002FA61D /* ContentView.swift in Sources */,
 				959B2B712B12FA65002FA61D /* iExpenseApp.swift in Sources */,
+				959B2B7F2B1301BD002FA61D /* ClassWithStateView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
