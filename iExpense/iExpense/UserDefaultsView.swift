@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct UserDefaultsView: View {
-    @State private var tapCount = 0
+    @State private var tapCount = UserDefaults.standard.integer(forKey: "tap")
     
     var body: some View {
         Button("Tap count: \(tapCount)") {
