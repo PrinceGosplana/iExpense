@@ -15,6 +15,7 @@
 		959B2B812B130651002FA61D /* AppearanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B802B130651002FA61D /* AppearanceView.swift */; };
 		959B2B832B1458CD002FA61D /* DeleteActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B822B1458CD002FA61D /* DeleteActionView.swift */; };
 		959B2B852B15A230002FA61D /* UserDefaultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B842B15A230002FA61D /* UserDefaultsView.swift */; };
+		959B2B872B16F43D002FA61D /* CodableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B862B16F43D002FA61D /* CodableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		959B2B802B130651002FA61D /* AppearanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceView.swift; sourceTree = "<group>"; };
 		959B2B822B1458CD002FA61D /* DeleteActionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteActionView.swift; sourceTree = "<group>"; };
 		959B2B842B15A230002FA61D /* UserDefaultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsView.swift; sourceTree = "<group>"; };
+		959B2B862B16F43D002FA61D /* CodableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				959B2B822B1458CD002FA61D /* DeleteActionView.swift */,
 				959B2B7E2B1301BD002FA61D /* ClassWithStateView.swift */,
 				959B2B842B15A230002FA61D /* UserDefaultsView.swift */,
+				959B2B862B16F43D002FA61D /* CodableView.swift */,
 				959B2B742B12FA68002FA61D /* Assets.xcassets */,
 				959B2B762B12FA68002FA61D /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				959B2B872B16F43D002FA61D /* CodableView.swift in Sources */,
 				959B2B832B1458CD002FA61D /* DeleteActionView.swift in Sources */,
 				959B2B732B12FA65002FA61D /* ContentView.swift in Sources */,
 				959B2B712B12FA65002FA61D /* iExpenseApp.swift in Sources */,
