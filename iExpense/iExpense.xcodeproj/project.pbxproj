@@ -19,6 +19,7 @@
 		959B2B892B184926002FA61D /* ExpenseItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B882B184926002FA61D /* ExpenseItem.swift */; };
 		959B2B8B2B1849A3002FA61D /* Expenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B8A2B1849A3002FA61D /* Expenses.swift */; };
 		959B2B8D2B184A0A002FA61D /* ExpensesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B8C2B184A0A002FA61D /* ExpensesView.swift */; };
+		959B2B8F2B1B9A03002FA61D /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B2B8E2B1B9A03002FA61D /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		959B2B882B184926002FA61D /* ExpenseItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseItem.swift; sourceTree = "<group>"; };
 		959B2B8A2B1849A3002FA61D /* Expenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
 		959B2B8C2B184A0A002FA61D /* ExpensesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesView.swift; sourceTree = "<group>"; };
+		959B2B8E2B1B9A03002FA61D /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				959B2B702B12FA65002FA61D /* iExpenseApp.swift */,
+				959B2B8E2B1B9A03002FA61D /* AddView.swift */,
 				959B2B722B12FA65002FA61D /* ContentView.swift */,
 				959B2B802B130651002FA61D /* AppearanceView.swift */,
 				959B2B822B1458CD002FA61D /* DeleteActionView.swift */,
@@ -167,6 +170,7 @@
 				959B2B8D2B184A0A002FA61D /* ExpensesView.swift in Sources */,
 				959B2B892B184926002FA61D /* ExpenseItem.swift in Sources */,
 				959B2B712B12FA65002FA61D /* iExpenseApp.swift in Sources */,
+				959B2B8F2B1B9A03002FA61D /* AddView.swift in Sources */,
 				959B2B852B15A230002FA61D /* UserDefaultsView.swift in Sources */,
 				959B2B8B2B1849A3002FA61D /* Expenses.swift in Sources */,
 				959B2B812B130651002FA61D /* AppearanceView.swift in Sources */,
